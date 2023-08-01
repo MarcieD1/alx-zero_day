@@ -1,1 +1,1 @@
-This is the README.md file inside the 0x03-git directory.
+This is the README.md file for the 0x03-git directory.
