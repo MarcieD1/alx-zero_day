@@ -14,16 +14,16 @@
 ~Msle0~/\<staff\>
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1694941120,,"wq"
+:WQ
+|2,0,1694941107,,"WQ"
 :q
 |2,0,1694937459,,"q"
 :q!
 |2,0,1694937345,,"q!"
-:wq
-|2,0,1694937018,,"wq"
 :ww
 |2,0,1691511377,,"ww"
-:WQ
-|2,0,1691511370,,"WQ"
 :Q
 |2,0,1691069323,,"Q"
 :w 0-iam_betty
@@ -101,34 +101,206 @@
 |3,1,36,0,1,0,1690897202,"u"
 
 # File marks:
-'0  1  0  ~/root/so_cool
-|4,48,1,0,1694937459,"~/root/so_cool"
-'1  1  0  ~/root/so_cool
-|4,49,1,0,1694937345,"~/root/so_cool"
-'2  1  0  ~/root/so_cool
-|4,50,1,0,1694937018,"~/root/so_cool"
-'3  1  0  ~/root/so_cool
-|4,51,1,0,1694937018,"~/root/so_cool"
+'0  2  28  ~/alx-pre_course/0x01-git/bash/ALX
+|4,48,2,28,1694941120,"~/alx-pre_course/0x01-git/bash/ALX"
+'1  2  25  ~/alx-pre_course/0x01-git/school
+|4,49,2,25,1694940640,"~/alx-pre_course/0x01-git/school"
+'2  2  25  ~/alx-pre_course/0x01-git/school
+|4,50,2,25,1694940610,"~/alx-pre_course/0x01-git/school"
+'3  2  16  ~/alx-pre_course/0x01-git/alx
+|4,51,2,16,1694940563,"~/alx-pre_course/0x01-git/alx"
 '4  1  0  ~/root/so_cool
-|4,52,1,0,1694936848,"~/root/so_cool"
+|4,52,1,0,1694937459,"~/root/so_cool"
 '5  1  0  ~/root/so_cool
-|4,53,1,0,1694936848,"~/root/so_cool"
+|4,53,1,0,1694937345,"~/root/so_cool"
 '6  1  0  ~/root/so_cool
-|4,54,1,0,1694936848,"~/root/so_cool"
+|4,54,1,0,1694937018,"~/root/so_cool"
 '7  1  0  ~/root/so_cool
-|4,55,1,0,1694936848,"~/root/so_cool"
-'8  20  3  ~/Betty/Betty
-|4,56,20,3,1691678531,"~/Betty/Betty"
-'9  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,57,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
+|4,55,1,0,1694937018,"~/root/so_cool"
+'8  1  0  ~/root/so_cool
+|4,56,1,0,1694936848,"~/root/so_cool"
+'9  1  0  ~/root/so_cool
+|4,57,1,0,1694936848,"~/root/so_cool"
 
 # Jumplist (newest first):
+-'  2  28  ~/alx-pre_course/0x01-git/bash/ALX
+|4,39,2,28,1694941120,"~/alx-pre_course/0x01-git/bash/ALX"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/ALX
+|4,39,1,0,1694941033,"~/alx-pre_course/0x01-git/bash/ALX"
+-'  2  25  ~/alx-pre_course/0x01-git/school
+|4,39,2,25,1694940640,"~/alx-pre_course/0x01-git/school"
+-'  2  25  ~/alx-pre_course/0x01-git/school
+|4,39,2,25,1694940640,"~/alx-pre_course/0x01-git/school"
+-'  2  25  ~/alx-pre_course/0x01-git/school
+|4,39,2,25,1694940610,"~/alx-pre_course/0x01-git/school"
+-'  2  25  ~/alx-pre_course/0x01-git/school
+|4,39,2,25,1694940610,"~/alx-pre_course/0x01-git/school"
+-'  1  0  ~/alx-pre_course/0x01-git/school
+|4,39,1,0,1694940587,"~/alx-pre_course/0x01-git/school"
+-'  1  0  ~/alx-pre_course/0x01-git/school
+|4,39,1,0,1694940587,"~/alx-pre_course/0x01-git/school"
+-'  1  0  ~/alx-pre_course/0x01-git/school
+|4,39,1,0,1694940587,"~/alx-pre_course/0x01-git/school"
+-'  1  0  ~/alx-pre_course/0x01-git/school
+|4,39,1,0,1694940587,"~/alx-pre_course/0x01-git/school"
+-'  2  16  ~/alx-pre_course/0x01-git/alx
+|4,39,2,16,1694940563,"~/alx-pre_course/0x01-git/alx"
+-'  2  16  ~/alx-pre_course/0x01-git/alx
+|4,39,2,16,1694940563,"~/alx-pre_course/0x01-git/alx"
+-'  2  16  ~/alx-pre_course/0x01-git/alx
+|4,39,2,16,1694940563,"~/alx-pre_course/0x01-git/alx"
+-'  2  16  ~/alx-pre_course/0x01-git/alx
+|4,39,2,16,1694940563,"~/alx-pre_course/0x01-git/alx"
+-'  2  16  ~/alx-pre_course/0x01-git/alx
+|4,39,2,16,1694940563,"~/alx-pre_course/0x01-git/alx"
+-'  2  16  ~/alx-pre_course/0x01-git/alx
+|4,39,2,16,1694940563,"~/alx-pre_course/0x01-git/alx"
+-'  2  16  ~/alx-pre_course/0x01-git/alx
+|4,39,2,16,1694940563,"~/alx-pre_course/0x01-git/alx"
+-'  2  16  ~/alx-pre_course/0x01-git/alx
+|4,39,2,16,1694940563,"~/alx-pre_course/0x01-git/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/alx
+|4,39,1,0,1694940439,"~/alx-pre_course/0x01-git/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/alx
+|4,39,1,0,1694940439,"~/alx-pre_course/0x01-git/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/alx
+|4,39,1,0,1694940439,"~/alx-pre_course/0x01-git/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/alx
+|4,39,1,0,1694940439,"~/alx-pre_course/0x01-git/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/alx
+|4,39,1,0,1694940439,"~/alx-pre_course/0x01-git/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/alx
+|4,39,1,0,1694940439,"~/alx-pre_course/0x01-git/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/alx
+|4,39,1,0,1694940439,"~/alx-pre_course/0x01-git/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/alx
+|4,39,1,0,1694940439,"~/alx-pre_course/0x01-git/alx"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937459,"~/root/so_cool"
 -'  1  0  ~/root/so_cool
 |4,39,1,0,1694937459,"~/root/so_cool"
 -'  1  0  ~/root/so_cool
 |4,39,1,0,1694937345,"~/root/so_cool"
 -'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937345,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
 |4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694937018,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
+-'  1  0  ~/root/so_cool
+|4,39,1,0,1694936848,"~/root/so_cool"
 -'  1  0  ~/root/so_cool
 |4,39,1,0,1694936848,"~/root/so_cool"
 -'  20  3  ~/Betty/Betty
@@ -151,180 +323,29 @@
 |4,39,20,3,1691678531,"~/Betty/Betty"
 -'  20  3  ~/Betty/Betty
 |4,39,20,3,1691678531,"~/Betty/Betty"
--'  20  3  ~/Betty/Betty
-|4,39,20,3,1691678531,"~/Betty/Betty"
--'  20  3  ~/Betty/Betty
-|4,39,20,3,1691678531,"~/Betty/Betty"
--'  20  3  ~/Betty/Betty
-|4,39,20,3,1691678531,"~/Betty/Betty"
--'  20  3  ~/Betty/Betty
-|4,39,20,3,1691678531,"~/Betty/Betty"
--'  20  3  ~/Betty/Betty
-|4,39,20,3,1691678531,"~/Betty/Betty"
--'  20  3  ~/Betty/Betty
-|4,39,20,3,1691678531,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  1  0  ~/Betty/Betty
-|4,39,1,0,1691678519,"~/Betty/Betty"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
--'  2  9  ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-|4,39,2,9,1691520380,"~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-pre_course/0x01-git/bash/ALX
+	*	1694941112	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	28
+
+> ~/alx-pre_course/0x01-git/school
+	*	1694940639	0
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
+
+> ~/alx-pre_course/0x01-git/alx
+	*	1694940562	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
 
 > ~/root/so_cool
 	*	1694937452	0
